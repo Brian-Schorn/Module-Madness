@@ -1,0 +1,22 @@
+{
+  "name": "module-madness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relCORE/Module-Madness.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "schorn.brian@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relCORE/Module-Madness/issues"
+  },
+  "homepage": "https://github.com/relCORE/Module-Madness#readme"
+}
